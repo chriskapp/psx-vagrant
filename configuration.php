@@ -11,7 +11,7 @@ return array(
 
 	// The url to the psx public folder (i.e. http://127.0.0.1/psx/public or 
 	// http://localhost.com)
-	'psx_url'                 => 'http://psx.dev',
+	'psx_url'                 => 'http://psx.dev:8008',
 
 	// The input path 'index.php/' or '' if you use mod_rewrite
 	'psx_dispatch'            => '',
